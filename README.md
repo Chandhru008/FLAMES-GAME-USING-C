@@ -1,1 +1,2 @@
-# FLAMES-GAME-USING-C
+# FLAMES-GAME-USING-CThe game of FLAMES is apparently a popular game played by teenagers as a way to deal with the unpredictability of their romantic relationships. This belongs to the vast class of prediction devices such as the counting of petals, numerological tricks, horoscopes and the like. However, unlike many of these other methods, the FLAMES game is based on a transparent deterministic algorithm.
+
